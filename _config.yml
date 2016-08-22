@@ -1,4 +1,6 @@
 typography_spectrum: 0.5234419193584472
+content_rating:
+  adult: false
 color:
   brandStrength: 0.808857070049271
   lightness: 0.7662823465652764
@@ -12,5 +14,7 @@ color:
     - '#EA2E49'
 layout_spectrum: 0.8386849910020828
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c083cec1-459e-42f8-b3fa-711256fdfdfc.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/43e86e22-8185-432a-9711-23bf16cbc004.jpg
 name: My Southern Child
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b78b15b2-0336-4eab-a898-7a1923f8d6f8.png
