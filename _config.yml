@@ -1,4 +1,3 @@
-layout_spectrum: 0.8386849910020828
 typography_spectrum: 0.5234419193584472
 color:
   brandStrength: 0.808857070049271
@@ -11,4 +10,7 @@ color:
     - '#77C4D3'
     - '#DAEDE2'
     - '#EA2E49'
+layout_spectrum: 0.8386849910020828
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c083cec1-459e-42f8-b3fa-711256fdfdfc.png
 name: My Southern Child
